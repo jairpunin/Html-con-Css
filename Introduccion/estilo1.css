@@ -1,0 +1,31 @@
+/**{
+	margin:0;
+	padding:0;
+}*/
+
+h1{
+	color:#341D06;
+	font-size:50px;
+}
+
+h2{
+	color:#365B0D;
+	font-size:30px;
+}
+
+body{
+	background:#DFD0C1;
+	color:#644628;
+}
+
+a{
+	color:#C63B15;
+}
+
+li a{
+	color:#22C615;
+}
+
+.yellow{
+	color:yellow;
+}
